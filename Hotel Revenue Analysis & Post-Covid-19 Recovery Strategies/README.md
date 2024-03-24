@@ -1,6 +1,6 @@
 # About This Project
 
-Employed data analysis and SARIMA time series modeling to assess the COVID-19 impact on Tubtim Siam Hotel's revenue, forecast lost revenue, predict recovery, and subsequently formulate post-pandemic growth strategies to boost occupancy rate.
+Employed deep data analysis and SARIMA time series modeling to assess the COVID-19 impact on Tubtim Siam Hotel's revenue, forecast lost revenue, predict recovery, and subsequently formulate post-pandemic growth strategies to boost occupancy rate.
 
 # Key Achievements
 
