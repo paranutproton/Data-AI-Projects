@@ -1,1 +1,0 @@
-- Analyzed 20,000+ Airbnb listings to identify key pricing factors including proximity to BTS/MRT stations, room types, room sizes, and competitor rates, with the objective of offering an overview of market dynamics and pricing strategies to support hosts' decision-making.
