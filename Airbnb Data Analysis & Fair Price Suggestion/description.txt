@@ -1,1 +1,3 @@
-Analyzed market trends of Airbnb during 2021-2022, examining over 30,000 listing data points across Bangkok and developed regression models for fair price evaluation, offering strategic price suggestions for rooms in Bangkok.
+- Analyzed market trends of Airbnb during 2021-2022 
+- Examining over 30,000 listing data points across Bangkok 
+- Developed regression models for fair price evaluation, offering strategic price suggestions for rooms in Bangkok.
