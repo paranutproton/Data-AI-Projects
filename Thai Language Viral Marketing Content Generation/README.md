@@ -1,6 +1,6 @@
 # About This Project
 
-Leveraged Generative AI models (GPT-3.5, DALL·E 2, Stable Diffusion) alongside Optical Character Recognition and web scraping to autonomously generate Thai marketing content (post captions, imagery, posters, and image headlines) that aligned with the current viral trending topics, based on user selection, with the primary goal of elevating brand/product awareness.
+Leveraged Generative AI models (GPT-3.5, DALL·E 2, Stable Diffusion) alongside Objection Detection, Optical Character Recognition and web scraping to autonomously generate Thai marketing content (post captions, imagery, posters, and image headlines) that aligned with the current viral trending topics, based on user selection, with the primary goal of elevating brand/product awareness.
 
 # Key Achievements
 
