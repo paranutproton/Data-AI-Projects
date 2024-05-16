@@ -11,4 +11,6 @@ Leveraged Generative AI models (GPT-3.5, DALL·E 2, Stable Diffusion) alongside 
 -   Used PyThaiNLP’s Tokenization to identify and utilize the most frequently occurring words in Thai language content.
 -   Generated customized marketing images using PIL & Rembg libraries, and OpenAI API DALL-E 2 based on user preferences.
 - Applied the DALL-E 2 inpainting technique and prompt engineering technique to merge user-input product images with AI-generated content, enhancing the personalization of marketing visuals.
+- Implemented algorithms for layout suggestion by analyzing high-performing marketing images, extracting visual features, and using machine learning techniques to recommend optimal layouts for users
+- Applied image enhancement techniques including background transparency, color correction, noise reduction, detail enhancement, and integration with DALL-E 2 for high-quality, personalized marketing visuals.
 -   Enabled user-selected customization for marketing content through an interactive generative process using GPT-3.5 Turbo.
